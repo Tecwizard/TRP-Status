@@ -18,9 +18,9 @@ sites:
     icon: https://styles.redditmedia.com/t5_6uhyrp/styles/communityIcon_zd0s6s5y0tg91.png
   - name: Iceburg Server
     url: http://fivem.terra-isles.com/
-  - name: Arma Server
+  - name: Arma 3 Server
     url: https://arma3-servers.net/api/?object=servers&element=detail&key=$ARMA3_API
-    __dangerous__body_down_if_text_missing: '"is_online":"1"'
+    __dangerous__body_down: '"is_online":"0"'
     icon: https://upload.wikimedia.org/wikipedia/commons/f/fa/ArmA_3_Logo_%28Black%29.png
   - name: Pterodactyl Server Node
     check: "tcp-ping"
