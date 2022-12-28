@@ -14,16 +14,13 @@ sites:
   - name: TXAdmin
     url: $TXADMIN
   - name: FiveM Server
-    #check: "tcp-ping"
     url: http://fivem.terra-isles.com#32024
-    #port: 32024
     icon: https://styles.redditmedia.com/t5_6uhyrp/styles/communityIcon_zd0s6s5y0tg91.png
   - name: Iceburg Server
     url: http://fivem.terra-isles.com/
   - name: Arma Server
-    check: "tcp-ping"
-    url: $ARMA3
-    port: 2303
+    url: https://arma3-servers.net/api/?object=servers&element=detail&key=$ARMA3_API
+    __dangerous__body_down_if_text_missing: '"is_online":"1"'
     icon: https://upload.wikimedia.org/wikipedia/commons/f/fa/ArmA_3_Logo_%28Black%29.png
   - name: Pterodactyl Server Node
     check: "tcp-ping"
