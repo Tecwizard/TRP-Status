@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 488,
-    "timeDay": 488,
-    "timeWeek": 488,
-    "timeMonth": 488,
-    "timeYear": 488,
+    "time": 443,
+    "timeDay": 443,
+    "timeWeek": 443,
+    "timeMonth": 443,
+    "timeYear": 443,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,38 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "team-speak-3-server",
     "status": "down",
-    "uptime": "1.98%",
-    "uptimeDay": "1.98%",
-    "uptimeWeek": "1.98%",
-    "uptimeMonth": "1.98%",
-    "uptimeYear": "1.98%",
+    "uptime": "1.75%",
+    "uptimeDay": "1.75%",
+    "uptimeWeek": "1.75%",
+    "uptimeMonth": "1.75%",
+    "uptimeYear": "1.75%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-28": 64
+      "2022-12-28": 72
+    }
+  },
+  {
+    "name": "TXAdmin",
+    "url": "$fivem.terra-isles.com:40120",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "tx-admin",
+    "status": "down",
+    "uptime": "4.56%",
+    "uptimeDay": "4.56%",
+    "uptimeWeek": "4.56%",
+    "uptimeMonth": "4.56%",
+    "uptimeYear": "4.56%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-12-28": 0
     }
   },
   {
@@ -43,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fivem.terra-isles.com.ico",
     "slug": "five-m-server",
     "status": "down",
-    "uptime": "7.70%",
-    "uptimeDay": "7.70%",
-    "uptimeWeek": "7.70%",
-    "uptimeMonth": "7.70%",
-    "uptimeYear": "7.70%",
+    "uptime": "7.09%",
+    "uptimeDay": "7.09%",
+    "uptimeWeek": "7.09%",
+    "uptimeMonth": "7.09%",
+    "uptimeYear": "7.09%",
     "time": 446,
     "timeDay": 446,
     "timeWeek": 446,
     "timeMonth": 446,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2022-12-28": 96
+      "2022-12-28": 104
     }
   },
   {
@@ -63,16 +83,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fivem.terra-isles.com.ico",
     "slug": "iceburg-server",
     "status": "up",
-    "uptime": "69.10%",
-    "uptimeDay": "69.10%",
-    "uptimeWeek": "69.10%",
-    "uptimeMonth": "69.10%",
-    "uptimeYear": "69.10%",
-    "time": 247,
-    "timeDay": 247,
-    "timeWeek": 247,
-    "timeMonth": 247,
-    "timeYear": 247,
+    "uptime": "71.48%",
+    "uptimeDay": "71.48%",
+    "uptimeWeek": "71.48%",
+    "uptimeMonth": "71.48%",
+    "uptimeYear": "71.48%",
+    "time": 234,
+    "timeDay": 234,
+    "timeWeek": 234,
+    "timeMonth": 234,
+    "timeYear": 234,
     "dailyMinutesDown": {
       "2022-12-28": 32
     }
@@ -94,7 +114,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-28": 103
+      "2022-12-28": 112
     }
   }
 ]
