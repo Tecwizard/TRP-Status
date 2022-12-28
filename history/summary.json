@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 541,
-    "timeDay": 541,
-    "timeWeek": 541,
-    "timeMonth": 541,
-    "timeYear": 541,
+    "time": 488,
+    "timeDay": 488,
+    "timeWeek": 488,
+    "timeMonth": 488,
+    "timeYear": 488,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "team-speak-3-server",
     "status": "down",
-    "uptime": "2.15%",
-    "uptimeDay": "2.15%",
-    "uptimeWeek": "2.15%",
-    "uptimeMonth": "2.15%",
-    "uptimeYear": "2.15%",
+    "uptime": "1.98%",
+    "uptimeDay": "1.98%",
+    "uptimeWeek": "1.98%",
+    "uptimeMonth": "1.98%",
+    "uptimeYear": "1.98%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-28": 58
+      "2022-12-28": 64
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fivem.terra-isles.com.ico",
     "slug": "five-m-server",
     "status": "down",
-    "uptime": "8.14%",
-    "uptimeDay": "8.14%",
-    "uptimeWeek": "8.14%",
-    "uptimeMonth": "8.14%",
-    "uptimeYear": "8.14%",
+    "uptime": "7.70%",
+    "uptimeDay": "7.70%",
+    "uptimeWeek": "7.70%",
+    "uptimeMonth": "7.70%",
+    "uptimeYear": "7.70%",
     "time": 446,
     "timeDay": 446,
     "timeWeek": 446,
     "timeMonth": 446,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2022-12-28": 90
+      "2022-12-28": 96
     }
   },
   {
@@ -63,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fivem.terra-isles.com.ico",
     "slug": "iceburg-server",
     "status": "up",
-    "uptime": "67.32%",
-    "uptimeDay": "67.32%",
-    "uptimeWeek": "67.32%",
-    "uptimeMonth": "67.32%",
-    "uptimeYear": "67.32%",
-    "time": 260,
-    "timeDay": 260,
-    "timeWeek": 260,
-    "timeMonth": 260,
-    "timeYear": 260,
+    "uptime": "69.10%",
+    "uptimeDay": "69.10%",
+    "uptimeWeek": "69.10%",
+    "uptimeMonth": "69.10%",
+    "uptimeYear": "69.10%",
+    "time": 247,
+    "timeDay": 247,
+    "timeWeek": 247,
+    "timeMonth": 247,
+    "timeYear": 247,
     "dailyMinutesDown": {
       "2022-12-28": 32
     }
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-28": 98
+      "2022-12-28": 103
     }
   }
 ]
