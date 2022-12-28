@@ -12,7 +12,7 @@ sites:
     port: 9908
     favicon: https://i.postimg.cc/3JqRz7cQ/1144-CE05-797-A-4-A55-A146-9-B35-BA440-AF8.png
   - name: TXAdmin
-    check: $fivem.terra-isles.com:40120
+    url: $fivem.terra-isles.com:40120
   - name: FiveM Server
     check: "tcp-ping"
     url: http://fivem.terra-isles.com
