@@ -13,6 +13,7 @@ sites:
     icon: https://i.postimg.cc/3JqRz7cQ/1144-CE05-797-A-4-A55-A146-9-B35-BA440-AF8.png
   - name: TXAdmin
     url: $TXADMIN
+    icon: https://txadm.in/snaily.svg
   - name: FiveM Server
     url: http://fivem.terra-isles.com#32024
     icon: https://styles.redditmedia.com/t5_6uhyrp/styles/communityIcon_zd0s6s5y0tg91.png
