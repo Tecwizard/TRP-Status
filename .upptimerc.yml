@@ -6,11 +6,11 @@ sites:
   - name: Terra Isles Website
     url: https://www.terraisles.com
   - name: TeamSpeak Server
-    url: http://ts3.terraisles.com
+    url: http://ts3.terra-isles.com:9908
   - name: FiveM Server
-    url: http://fivem.terraisles.com:32024
+    url: http://fivem.terra-isles.com:32024
   - name: Iceburg Server
-    url: http://fivem.terraisles.com/
+    url: http://fivem.terra-isles.com/
   - name: Arma Server
     url: http://games1.madzahttr.com:2302
 
