@@ -5,20 +5,24 @@ repo: TRP-Status # The name of this repository
 sites:
   - name: Terra Isles Website
     url: https://www.terraisles.com
+    favicon: https://i.postimg.cc/FFWZzqZZ/Favicon-1.png
   - name: TeamSpeak 3 Server
     check: "tcp-ping"
     url: ts3.terra-isles.com
     port: 9908
+    favicon: https://i.postimg.cc/3JqRz7cQ/1144-CE05-797-A-4-A55-A146-9-B35-BA440-AF8.png
   - name: FiveM Server
     check: "tcp-ping"
     url: http://fivem.terra-isles.com
     port: 32024
+    favicon: https://styles.redditmedia.com/t5_6uhyrp/styles/communityIcon_zd0s6s5y0tg91.png
   - name: Iceburg Server
     url: http://fivem.terra-isles.com/
   - name: Arma Server
     check: "tcp-ping"
     url: games1.madzahttr.com
     port: 2302
+    favicon: https://upload.wikimedia.org/wikipedia/commons/f/fa/ArmA_3_Logo_%28Black%29.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -33,8 +37,9 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Website
+      href: https://www.terraisles.com
+      #https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
