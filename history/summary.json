@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 435,
-    "timeDay": 435,
-    "timeWeek": 435,
-    "timeMonth": 435,
-    "timeYear": 435,
+    "time": 439,
+    "timeDay": 439,
+    "timeWeek": 439,
+    "timeMonth": 439,
+    "timeYear": 439,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://i.postimg.cc/3JqRz7cQ/1144-CE05-797-A-4-A55-A146-9-B35-BA440-AF8.png",
     "slug": "team-speak-3-server",
     "status": "down",
-    "uptime": "1.11%",
-    "uptimeDay": "1.11%",
-    "uptimeWeek": "1.11%",
-    "uptimeMonth": "1.11%",
-    "uptimeYear": "1.11%",
-    "time": 176,
-    "timeDay": 176,
-    "timeWeek": 176,
-    "timeMonth": 176,
-    "timeYear": 176,
+    "uptime": "1.00%",
+    "uptimeDay": "1.00%",
+    "uptimeWeek": "1.00%",
+    "uptimeMonth": "1.00%",
+    "uptimeYear": "1.00%",
+    "time": 170,
+    "timeDay": 170,
+    "timeWeek": 170,
+    "timeMonth": 170,
+    "timeYear": 170,
     "dailyMinutesDown": {
-      "2022-12-28": 115
+      "2022-12-28": 127
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 202,
-    "timeDay": 202,
-    "timeWeek": 202,
-    "timeMonth": 202,
-    "timeYear": 202,
+    "time": 221,
+    "timeDay": 221,
+    "timeWeek": 221,
+    "timeMonth": 221,
+    "timeYear": 221,
     "dailyMinutesDown": {}
   },
   {
@@ -61,16 +61,16 @@
     "icon": "https://styles.redditmedia.com/t5_6uhyrp/styles/communityIcon_zd0s6s5y0tg91.png",
     "slug": "five-m-server",
     "status": "up",
-    "uptime": "5.32%",
-    "uptimeDay": "5.32%",
-    "uptimeWeek": "5.32%",
-    "uptimeMonth": "5.32%",
-    "uptimeYear": "5.32%",
-    "time": 280,
-    "timeDay": 280,
-    "timeWeek": 280,
-    "timeMonth": 280,
-    "timeYear": 280,
+    "uptime": "12.04%",
+    "uptimeDay": "12.04%",
+    "uptimeWeek": "12.04%",
+    "uptimeMonth": "12.04%",
+    "uptimeYear": "12.04%",
+    "time": 256,
+    "timeDay": 256,
+    "timeWeek": 256,
+    "timeMonth": 256,
+    "timeYear": 256,
     "dailyMinutesDown": {
       "2022-12-28": 146
     }
@@ -81,16 +81,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fivem.terra-isles.com.ico",
     "slug": "iceburg-server",
     "status": "up",
-    "uptime": "79.32%",
-    "uptimeDay": "79.32%",
-    "uptimeWeek": "79.32%",
-    "uptimeMonth": "79.32%",
-    "uptimeYear": "79.32%",
-    "time": 199,
-    "timeDay": 199,
-    "timeWeek": 199,
-    "timeMonth": 199,
-    "timeYear": 199,
+    "uptime": "80.79%",
+    "uptimeDay": "80.79%",
+    "uptimeWeek": "80.79%",
+    "uptimeMonth": "80.79%",
+    "uptimeYear": "80.79%",
+    "time": 184,
+    "timeDay": 184,
+    "timeWeek": 184,
+    "timeMonth": 184,
+    "timeYear": 184,
     "dailyMinutesDown": {
       "2022-12-28": 32
     }
@@ -112,7 +112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-28": 155
+      "2022-12-28": 166
     }
   },
   {
@@ -120,19 +120,19 @@
     "url": "$ARMA3",
     "icon": "https://i.postimg.cc/rsqRxTtK/C8-A719-C3-D57-B-4-BEE-BA3-C-356502-FBC0-EB.png",
     "slug": "pterodactyl-server-node",
-    "status": "down",
-    "uptime": "3.02%",
-    "uptimeDay": "3.02%",
-    "uptimeWeek": "3.02%",
-    "uptimeMonth": "3.02%",
-    "uptimeYear": "3.02%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.67%",
+    "uptimeDay": "0.67%",
+    "uptimeWeek": "0.67%",
+    "uptimeMonth": "0.67%",
+    "uptimeYear": "0.67%",
+    "time": 69,
+    "timeDay": 69,
+    "timeWeek": 69,
+    "timeMonth": 69,
+    "timeYear": 69,
     "dailyMinutesDown": {
-      "2022-12-28": 0
+      "2022-12-28": 12
     }
   }
 ]
