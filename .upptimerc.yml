@@ -28,7 +28,7 @@ sites:
   - name: Pterodactyl Server Node
     check: "tcp-ping"
     url: $ARMA3
-    port: 2202
+    port: 2022
     icon: https://i.postimg.cc/rsqRxTtK/C8-A719-C3-D57-B-4-BEE-BA3-C-356502-FBC0-EB.png
 
 status-website:
