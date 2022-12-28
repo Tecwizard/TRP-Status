@@ -11,7 +11,7 @@ sites:
     url: $TS3_QUERY
     port: 10080
     icon: https://i.postimg.cc/3JqRz7cQ/1144-CE05-797-A-4-A55-A146-9-B35-BA440-AF8.png
-  - name: TXAdmin
+  - name: txAdmin
     url: $TXADMIN
     icon: https://txadm.in/snaily.svg
   - name: FiveM Server
