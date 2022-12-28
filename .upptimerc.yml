@@ -5,14 +5,20 @@ repo: TRP-Status # The name of this repository
 sites:
   - name: Terra Isles Website
     url: https://www.terraisles.com
-  - name: TeamSpeak Server
-    url: http://ts3.terra-isles.com:9908
+  - name: TeamSpeak 3 Server
+    check: "tcp-ping"
+    url: ts3.terra-isles.com
+    port: 9908
   - name: FiveM Server
-    url: http://fivem.terra-isles.com:32024
+    check: "tcp-ping"
+    url: http://fivem.terra-isles.com
+    port: 32024
   - name: Iceburg Server
     url: http://fivem.terra-isles.com/
   - name: Arma Server
-    url: http://games1.madzahttr.com:2302
+    check: "tcp-ping"
+    url: games1.madzahttr.com
+    port: 2302
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
