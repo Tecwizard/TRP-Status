@@ -8,11 +8,11 @@ sites:
   - name: TeamSpeak Server
     url: http://ts3.terraisles.com
   - name: FiveM Server
-    url: https://fivem.terraisles.com:32024
+    url: http://fivem.terraisles.com:32024
   - name: Iceburg Server
-    url: https://fivem.terraisles.com/
+    url: http://fivem.terraisles.com/
   - name: Arma Server
-    url: games1.madzahttr.com:2302
+    url: http://games1.madzahttr.com:2302
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
