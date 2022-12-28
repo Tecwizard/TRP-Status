@@ -36,6 +36,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://i.postimg.cc/C5QH2B1t/Diamond.png
   favicon: https://i.postimg.cc/FFWZzqZZ/Favicon-1.png
+  faviconSvg: https://i.postimg.cc/FFWZzqZZ/Favicon-1.png
   name: TRP Server Status
   introTitle: "Terra Isles Roleplay Server Statuses"
   introMessage: This is a status page is used to monitor the status of the various servers and services Terra Isles Roleplay manages and maintains. The code that makes up this page is entirely open source amd was created by **Upptime**.
