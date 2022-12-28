@@ -5,26 +5,31 @@ repo: TRP-Status # The name of this repository
 sites:
   - name: Terra Isles Website
     url: https://www.terraisles.com
-    favicon: https://i.postimg.cc/FFWZzqZZ/Favicon-1.png
+    icon: https://i.postimg.cc/FFWZzqZZ/Favicon-1.png
   - name: TeamSpeak 3 Server
-    check: "tcp-ping"
-    url: ts3.terra-isles.com
-    port: 9908
-    favicon: https://i.postimg.cc/3JqRz7cQ/1144-CE05-797-A-4-A55-A146-9-B35-BA440-AF8.png
+    #check: "tcp-ping"
+    url: $TS3_QUERY
+    #port: 9908
+    icon: https://i.postimg.cc/3JqRz7cQ/1144-CE05-797-A-4-A55-A146-9-B35-BA440-AF8.png
   - name: TXAdmin
     url: $TXADMIN
   - name: FiveM Server
-    check: "tcp-ping"
-    url: http://fivem.terra-isles.com
-    port: 32024
-    favicon: https://styles.redditmedia.com/t5_6uhyrp/styles/communityIcon_zd0s6s5y0tg91.png
+    #check: "tcp-ping"
+    url: http://fivem.terra-isles.com#32024
+    #port: 32024
+    icon: https://styles.redditmedia.com/t5_6uhyrp/styles/communityIcon_zd0s6s5y0tg91.png
   - name: Iceburg Server
     url: http://fivem.terra-isles.com/
   - name: Arma Server
     check: "tcp-ping"
-    url: games1.madzahttr.com
+    url: $ARMA3
     port: 2302
-    favicon: https://upload.wikimedia.org/wikipedia/commons/f/fa/ArmA_3_Logo_%28Black%29.png
+    icon: https://upload.wikimedia.org/wikipedia/commons/f/fa/ArmA_3_Logo_%28Black%29.png
+  - name: Pterodactyl Server Node
+    check: "tcp-ping"
+    url: $ARMA3
+    port: 2202
+    icon: https://i.postimg.cc/rsqRxTtK/C8-A719-C3-D57-B-4-BEE-BA3-C-356502-FBC0-EB.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -32,7 +37,8 @@ status-website:
   cname: status.terra-isles.com
   theme: night
   # baseUrl: /your-repo-name
-  logoUrl: https://i.postimg.cc/FFWZzqZZ/Favicon-1.png
+  logoUrl: https://i.postimg.cc/C5QH2B1t/Diamond.png
+  favicon: https://i.postimg.cc/FFWZzqZZ/Favicon-1.png
   name: TRP Server Status
   introTitle: "Terra Isles Roleplay Sertver Statuses"
   introMessage: This is a status page is used to monitor the status of the various servers and services Terra Isles Roleplay manages and maintains. The code that makes up this page is entirely open source amd was created by **Upptime**.
