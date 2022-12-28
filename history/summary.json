@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 555,
-    "timeDay": 555,
-    "timeWeek": 555,
-    "timeMonth": 555,
-    "timeYear": 555,
+    "time": 541,
+    "timeDay": 541,
+    "timeWeek": 541,
+    "timeMonth": 541,
+    "timeYear": 541,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "team-speak-3-server",
     "status": "down",
-    "uptime": "4.59%",
-    "uptimeDay": "4.59%",
-    "uptimeWeek": "4.59%",
-    "uptimeMonth": "4.59%",
-    "uptimeYear": "4.59%",
+    "uptime": "2.15%",
+    "uptimeDay": "2.15%",
+    "uptimeWeek": "2.15%",
+    "uptimeMonth": "2.15%",
+    "uptimeYear": "2.15%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-28": 27
+      "2022-12-28": 58
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fivem.terra-isles.com.ico",
     "slug": "five-m-server",
     "status": "down",
-    "uptime": "11.97%",
-    "uptimeDay": "11.97%",
-    "uptimeWeek": "11.97%",
-    "uptimeMonth": "11.97%",
-    "uptimeYear": "11.97%",
+    "uptime": "8.14%",
+    "uptimeDay": "8.14%",
+    "uptimeWeek": "8.14%",
+    "uptimeMonth": "8.14%",
+    "uptimeYear": "8.14%",
     "time": 446,
     "timeDay": 446,
     "timeWeek": 446,
     "timeMonth": 446,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2022-12-28": 59
+      "2022-12-28": 90
     }
   },
   {
@@ -63,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fivem.terra-isles.com.ico",
     "slug": "iceburg-server",
     "status": "up",
-    "uptime": "51.92%",
-    "uptimeDay": "51.92%",
-    "uptimeWeek": "51.92%",
-    "uptimeMonth": "51.92%",
-    "uptimeYear": "51.92%",
-    "time": 299,
-    "timeDay": 299,
-    "timeWeek": 299,
-    "timeMonth": 299,
-    "timeYear": 299,
+    "uptime": "67.32%",
+    "uptimeDay": "67.32%",
+    "uptimeWeek": "67.32%",
+    "uptimeMonth": "67.32%",
+    "uptimeYear": "67.32%",
+    "time": 260,
+    "timeDay": 260,
+    "timeWeek": 260,
+    "timeMonth": 260,
+    "timeYear": 260,
     "dailyMinutesDown": {
       "2022-12-28": 32
     }
@@ -83,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "arma-server",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-28": 66
+      "2022-12-28": 98
     }
   }
 ]
