@@ -23,7 +23,7 @@ sites:
   - name: Arma Server
     check: "tcp-ping"
     url: $ARMA3
-    port: 2302
+    port: 2303
     icon: https://upload.wikimedia.org/wikipedia/commons/f/fa/ArmA_3_Logo_%28Black%29.png
   - name: Pterodactyl Server Node
     check: "tcp-ping"
