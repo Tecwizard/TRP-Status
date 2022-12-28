@@ -2,7 +2,7 @@
   {
     "name": "Terra Isles Website",
     "url": "https://www.terraisles.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.terraisles.com.ico",
+    "icon": "https://i.postimg.cc/FFWZzqZZ/Favicon-1.png",
     "slug": "terra-isles-website",
     "status": "up",
     "uptime": "100.00%",
@@ -19,22 +19,22 @@
   },
   {
     "name": "TeamSpeak 3 Server",
-    "url": "ts3.terra-isles.com",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "$TS3_QUERY",
+    "icon": "https://i.postimg.cc/3JqRz7cQ/1144-CE05-797-A-4-A55-A146-9-B35-BA440-AF8.png",
     "slug": "team-speak-3-server",
     "status": "down",
-    "uptime": "1.54%",
-    "uptimeDay": "1.54%",
-    "uptimeWeek": "1.54%",
-    "uptimeMonth": "1.54%",
-    "uptimeYear": "1.54%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "uptime": "1.10%",
+    "uptimeDay": "1.10%",
+    "uptimeWeek": "1.10%",
+    "uptimeMonth": "1.10%",
+    "uptimeYear": "1.10%",
+    "time": 176,
+    "timeDay": 176,
+    "timeWeek": 176,
+    "timeMonth": 176,
+    "timeYear": 176,
     "dailyMinutesDown": {
-      "2022-12-28": 82
+      "2022-12-28": 115
     }
   },
   {
@@ -48,31 +48,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 231,
-    "timeWeek": 231,
-    "timeMonth": 231,
-    "timeYear": 231,
+    "time": 202,
+    "timeDay": 202,
+    "timeWeek": 202,
+    "timeMonth": 202,
+    "timeYear": 202,
     "dailyMinutesDown": {}
   },
   {
     "name": "FiveM Server",
-    "url": "http://fivem.terra-isles.com",
-    "icon": "https://icons.duckduckgo.com/ip3/fivem.terra-isles.com.ico",
+    "url": "http://fivem.terra-isles.com#32024",
+    "icon": "https://styles.redditmedia.com/t5_6uhyrp/styles/communityIcon_zd0s6s5y0tg91.png",
     "slug": "five-m-server",
-    "status": "down",
-    "uptime": "6.53%",
-    "uptimeDay": "6.53%",
-    "uptimeWeek": "6.53%",
-    "uptimeMonth": "6.53%",
-    "uptimeYear": "6.53%",
-    "time": 446,
-    "timeDay": 446,
-    "timeWeek": 446,
-    "timeMonth": 446,
-    "timeYear": 446,
+    "status": "up",
+    "uptime": "5.24%",
+    "uptimeDay": "5.24%",
+    "uptimeWeek": "5.24%",
+    "uptimeMonth": "5.24%",
+    "uptimeYear": "5.24%",
+    "time": 280,
+    "timeDay": 280,
+    "timeWeek": 280,
+    "timeMonth": 280,
+    "timeYear": 280,
     "dailyMinutesDown": {
-      "2022-12-28": 114
+      "2022-12-28": 146
     }
   },
   {
@@ -81,24 +81,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/fivem.terra-isles.com.ico",
     "slug": "iceburg-server",
     "status": "up",
-    "uptime": "73.72%",
-    "uptimeDay": "73.72%",
-    "uptimeWeek": "73.72%",
-    "uptimeMonth": "73.72%",
-    "uptimeYear": "73.72%",
-    "time": 224,
-    "timeDay": 224,
-    "timeWeek": 224,
-    "timeMonth": 224,
-    "timeYear": 224,
+    "uptime": "79.30%",
+    "uptimeDay": "79.30%",
+    "uptimeWeek": "79.30%",
+    "uptimeMonth": "79.30%",
+    "uptimeYear": "79.30%",
+    "time": 199,
+    "timeDay": 199,
+    "timeWeek": 199,
+    "timeMonth": 199,
+    "timeYear": 199,
     "dailyMinutesDown": {
       "2022-12-28": 32
     }
   },
   {
     "name": "Arma Server",
-    "url": "games1.madzahttr.com",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "$ARMA3",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/f/fa/ArmA_3_Logo_%28Black%29.png",
     "slug": "arma-server",
     "status": "down",
     "uptime": "0.01%",
@@ -112,7 +112,27 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-28": 122
+      "2022-12-28": 154
+    }
+  },
+  {
+    "name": "Pterodactyl Server Node",
+    "url": "$ARMA3",
+    "icon": "https://i.postimg.cc/rsqRxTtK/C8-A719-C3-D57-B-4-BEE-BA3-C-356502-FBC0-EB.png",
+    "slug": "pterodactyl-server-node",
+    "status": "down",
+    "uptime": "10.77%",
+    "uptimeDay": "10.77%",
+    "uptimeWeek": "10.77%",
+    "uptimeMonth": "10.77%",
+    "uptimeYear": "10.77%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-12-28": 0
     }
   }
 ]
