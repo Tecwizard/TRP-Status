@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 370,
     "timeDay": 486,
-    "timeWeek": 370,
+    "timeWeek": 376,
     "timeMonth": 370,
     "timeYear": 370,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 104,
     "timeDay": 69,
-    "timeWeek": 104,
+    "timeWeek": 97,
     "timeMonth": 104,
     "timeYear": 104,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 216,
     "timeDay": 138,
-    "timeWeek": 216,
+    "timeWeek": 212,
     "timeMonth": 216,
     "timeYear": 216,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 312,
     "timeDay": 132,
-    "timeWeek": 312,
+    "timeWeek": 580,
     "timeMonth": 312,
     "timeYear": 312,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 97,
     "timeDay": 20,
-    "timeWeek": 97,
+    "timeWeek": 44,
     "timeMonth": 97,
     "timeYear": 97,
     "dailyMinutesDown": {}
@@ -94,18 +94,20 @@
     "url": "https://arma3-servers.net/api/?object=servers&element=detail&key=$ARMA3_API",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/f/fa/ArmA_3_Logo_%28Black%29.png",
     "slug": "arma-3-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 418,
-    "timeDay": 568,
-    "timeWeek": 418,
-    "timeMonth": 418,
-    "timeYear": 418,
-    "dailyMinutesDown": {}
+    "time": 908,
+    "timeDay": 3926,
+    "timeWeek": 1277,
+    "timeMonth": 908,
+    "timeYear": 908,
+    "dailyMinutesDown": {
+      "2023-01-04": 0
+    }
   },
   {
     "name": "Pterodactyl Server Node",
@@ -120,7 +122,7 @@
     "uptimeYear": "100.00%",
     "time": 78,
     "timeDay": 59,
-    "timeWeek": 78,
+    "timeWeek": 76,
     "timeMonth": 78,
     "timeYear": 78,
     "dailyMinutesDown": {}
