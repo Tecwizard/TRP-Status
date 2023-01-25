@@ -22,10 +22,10 @@
     "url": "$TS3_QUERY",
     "icon": "https://i.postimg.cc/3JqRz7cQ/1144-CE05-797-A-4-A55-A146-9-B35-BA440-AF8.png",
     "slug": "team-speak-3-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "99.72%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
     "time": 104,
@@ -34,7 +34,7 @@
     "timeMonth": 104,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2023-01-25": 26
+      "2023-01-25": 28
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "$TXADMIN",
     "icon": "https://i.postimg.cc/nVsqKF5Q/Screenshot-2.png",
     "slug": "tx-admin",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 311,
     "timeDay": 1537,
     "timeWeek": 671,
     "timeMonth": 311,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2023-01-25": 26
+      "2023-01-25": 27
     }
   },
   {
@@ -62,10 +62,10 @@
     "url": "http://fivem.terra-isles.com#32024",
     "icon": "https://styles.redditmedia.com/t5_6uhyrp/styles/communityIcon_zd0s6s5y0tg91.png",
     "slug": "five-m-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 398,
@@ -74,7 +74,7 @@
     "timeMonth": 398,
     "timeYear": 398,
     "dailyMinutesDown": {
-      "2023-01-25": 25
+      "2023-01-25": 26
     }
   },
   {
@@ -82,10 +82,10 @@
     "url": "http://fivem.terra-isles.com/",
     "icon": "https://icons.duckduckgo.com/ip3/fivem.terra-isles.com.ico",
     "slug": "iceburg-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "99.76%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 78,
