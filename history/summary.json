@@ -22,19 +22,19 @@
     "url": "$TS3_QUERY",
     "icon": "https://i.postimg.cc/3JqRz7cQ/1144-CE05-797-A-4-A55-A146-9-B35-BA440-AF8.png",
     "slug": "team-speak-3-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 104,
     "timeDay": 106,
     "timeWeek": 101,
     "timeMonth": 104,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2023-01-25": 2
+      "2023-01-25": 26
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "$TXADMIN",
     "icon": "https://i.postimg.cc/nVsqKF5Q/Screenshot-2.png",
     "slug": "tx-admin",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 223,
-    "timeDay": 258,
-    "timeWeek": 243,
-    "timeMonth": 223,
-    "timeYear": 223,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 311,
+    "timeDay": 1537,
+    "timeWeek": 671,
+    "timeMonth": 311,
+    "timeYear": 311,
     "dailyMinutesDown": {
-      "2023-01-25": 1
+      "2023-01-25": 26
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "http://fivem.terra-isles.com#32024",
     "icon": "https://styles.redditmedia.com/t5_6uhyrp/styles/communityIcon_zd0s6s5y0tg91.png",
     "slug": "five-m-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 401,
-    "timeDay": 3898,
-    "timeWeek": 1102,
-    "timeMonth": 401,
-    "timeYear": 401,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 398,
+    "timeDay": 2687,
+    "timeWeek": 1009,
+    "timeMonth": 398,
+    "timeYear": 398,
     "dailyMinutesDown": {
-      "2023-01-25": 1
+      "2023-01-25": 25
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "http://fivem.terra-isles.com/",
     "icon": "https://icons.duckduckgo.com/ip3/fivem.terra-isles.com.ico",
     "slug": "iceburg-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 78,
-    "timeDay": 67,
-    "timeWeek": 66,
+    "timeDay": 68,
+    "timeWeek": 67,
     "timeMonth": 78,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 25
     }
   },
   {
