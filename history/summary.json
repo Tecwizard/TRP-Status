@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 403,
-    "timeDay": 383,
-    "timeWeek": 369,
-    "timeMonth": 403,
-    "timeYear": 403,
+    "time": 397,
+    "timeDay": 86,
+    "timeWeek": 333,
+    "timeMonth": 397,
+    "timeYear": 397,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://i.postimg.cc/3JqRz7cQ/1144-CE05-797-A-4-A55-A146-9-B35-BA440-AF8.png",
     "slug": "team-speak-3-server",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "97.51%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.94%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 104,
-    "timeDay": 101,
-    "timeWeek": 101,
+    "timeDay": 105,
+    "timeWeek": 100,
     "timeMonth": 104,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2023-01-25": 36
+      "2023-01-25": 26
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://i.postimg.cc/nVsqKF5Q/Screenshot-2.png",
     "slug": "tx-admin",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "97.57%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.94%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 310,
-    "timeDay": 1219,
-    "timeWeek": 631,
+    "timeDay": 1240,
+    "timeWeek": 633,
     "timeMonth": 310,
     "timeYear": 310,
     "dailyMinutesDown": {
-      "2023-01-25": 35
+      "2023-01-25": 26
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://styles.redditmedia.com/t5_6uhyrp/styles/communityIcon_zd0s6s5y0tg91.png",
     "slug": "five-m-server",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "97.64%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 393,
-    "timeDay": 2056,
+    "uptime": "99.94%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 388,
+    "timeDay": 2068,
     "timeWeek": 924,
-    "timeMonth": 393,
-    "timeYear": 393,
+    "timeMonth": 388,
+    "timeYear": 388,
     "dailyMinutesDown": {
-      "2023-01-25": 34
+      "2023-01-25": 25
     }
   },
   {
@@ -83,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fivem.terra-isles.com.ico",
     "slug": "iceburg-server",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "97.71%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.94%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 78,
-    "timeDay": 66,
-    "timeWeek": 66,
+    "timeDay": 73,
+    "timeWeek": 67,
     "timeMonth": 78,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2023-01-25": 33
+      "2023-01-25": 25
     }
   },
   {
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 605,
-    "timeDay": 468,
-    "timeWeek": 423,
-    "timeMonth": 605,
-    "timeYear": 605,
+    "time": 597,
+    "timeDay": 316,
+    "timeWeek": 415,
+    "timeMonth": 597,
+    "timeYear": 597,
     "dailyMinutesDown": {}
   },
   {
@@ -127,7 +127,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 82,
-    "timeDay": 91,
+    "timeDay": 97,
     "timeWeek": 92,
     "timeMonth": 82,
     "timeYear": 82,
