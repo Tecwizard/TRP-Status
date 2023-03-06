@@ -102,18 +102,20 @@
     "url": "https://arma3-servers.net/api/?object=servers&element=detail&key=$ARMA3_API",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/f/fa/ArmA_3_Logo_%28Black%29.png",
     "slug": "arma-3-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 504,
-    "timeDay": 593,
-    "timeWeek": 458,
-    "timeMonth": 437,
-    "timeYear": 504,
-    "dailyMinutesDown": {}
+    "time": 703,
+    "timeDay": 8195,
+    "timeWeek": 2375,
+    "timeMonth": 967,
+    "timeYear": 703,
+    "dailyMinutesDown": {
+      "2023-03-06": 0
+    }
   },
   {
     "name": "Pterodactyl Server Node",
