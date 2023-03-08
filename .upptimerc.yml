@@ -45,7 +45,7 @@ status-website:
     - title: Status
       href: /
     - title: Website
-      href: https://www.terraisles.com
+      href: https://www.terra-isles.com
       #https://github.com/$OWNER/$REPO
       
 i18n:
