@@ -15,8 +15,7 @@ sites:
     url: $TXADMIN
     icon: https://i.postimg.cc/nVsqKF5Q/Screenshot-2.png
   - name: FiveM Server
-    url: https://servers.fivem.net/servers/detail/x44j4x
-    __dangerous__body_down_if_text_missing: 'Iceburg'
+    url: $FIVEM
     icon: https://styles.redditmedia.com/t5_6uhyrp/styles/communityIcon_zd0s6s5y0tg91.png
   - name: Iceburg Server
     url: http://fivem.terra-isles.com/
