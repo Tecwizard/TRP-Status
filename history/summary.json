@@ -4,18 +4,20 @@
     "url": "https://www.terraisles.com",
     "icon": "https://i.postimg.cc/FFWZzqZZ/Favicon-1.png",
     "slug": "terra-isles-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 411,
-    "timeDay": 490,
-    "timeWeek": 504,
-    "timeMonth": 478,
-    "timeYear": 411,
-    "dailyMinutesDown": {}
+    "time": 408,
+    "timeDay": 283,
+    "timeWeek": 450,
+    "timeMonth": 466,
+    "timeYear": 408,
+    "dailyMinutesDown": {
+      "2023-03-19": 0
+    }
   },
   {
     "name": "TeamSpeak 3 Server",
