@@ -5,14 +5,14 @@
     "icon": "https://i.postimg.cc/FFWZzqZZ/Favicon-1.png",
     "slug": "terra-isles-website",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "97.03%",
     "uptimeWeek": "94.79%",
     "uptimeMonth": "98.80%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.57%",
     "time": 406,
-    "timeDay": 269,
-    "timeWeek": 404,
+    "timeDay": 229,
+    "timeWeek": 402,
     "timeMonth": 456,
     "timeYear": 406,
     "dailyMinutesDown": {
@@ -32,8 +32,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 104,
-    "timeDay": 77,
-    "timeWeek": 106,
+    "timeDay": 108,
+    "timeWeek": 102,
     "timeMonth": 101,
     "timeYear": 104,
     "dailyMinutesDown": {
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 255,
-    "timeDay": 164,
-    "timeWeek": 231,
-    "timeMonth": 204,
+    "timeDay": 249,
+    "timeWeek": 230,
+    "timeMonth": 203,
     "timeYear": 255,
     "dailyMinutesDown": {
       "2023-01-25": 26
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.86%",
-    "time": 250,
-    "timeDay": 141,
+    "time": 249,
+    "timeDay": 170,
     "timeWeek": 172,
-    "timeMonth": 140,
-    "timeYear": 250,
+    "timeMonth": 139,
+    "timeYear": 249,
     "dailyMinutesDown": {
       "2023-03-13": 142,
       "2023-01-25": 25
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 78,
-    "timeDay": 139,
+    "time": 79,
+    "timeDay": 167,
     "timeWeek": 150,
-    "timeMonth": 100,
-    "timeYear": 78,
+    "timeMonth": 103,
+    "timeYear": 79,
     "dailyMinutesDown": {
       "2023-01-25": 25
     }
@@ -112,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 789,
-    "timeDay": 492,
-    "timeWeek": 425,
+    "time": 784,
+    "timeDay": 319,
+    "timeWeek": 409,
     "timeMonth": 1264,
-    "timeYear": 789,
+    "timeYear": 784,
     "dailyMinutesDown": {
       "2023-03-06": 19
     }
@@ -133,9 +133,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 80,
-    "timeDay": 35,
-    "timeWeek": 84,
-    "timeMonth": 75,
+    "timeDay": 86,
+    "timeWeek": 83,
+    "timeMonth": 74,
     "timeYear": 80,
     "dailyMinutesDown": {}
   }
