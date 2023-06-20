@@ -1,7 +1,7 @@
 url: https://arma3-servers.net/api/?object=servers&element=detail&key=$ARMA3_API
-status: up
+status: down
 code: 200
-responseTime: 516
-lastUpdated: 2023-06-20T06:37:43.966Z
+responseTime: 315
+lastUpdated: 2023-06-20T06:59:56.414Z
 startTime: Wed Dec 28 2022 20:51:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
