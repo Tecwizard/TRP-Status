@@ -111,17 +111,17 @@
     "url": "https://arma3-servers.net/api/?object=servers&element=detail&key=$ARMA3_API",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/f/fa/ArmA_3_Logo_%28Black%29.png",
     "slug": "arma-3-server",
-    "status": "up",
-    "uptime": "98.30%",
-    "uptimeDay": "55.97%",
-    "uptimeWeek": "58.15%",
-    "uptimeMonth": "90.19%",
-    "uptimeYear": "98.30%",
-    "time": 461,
+    "status": "down",
+    "uptime": "98.35%",
+    "uptimeDay": "60.43%",
+    "uptimeWeek": "58.59%",
+    "uptimeMonth": "90.46%",
+    "uptimeYear": "98.35%",
+    "time": 460,
     "timeDay": 400,
-    "timeWeek": 433,
+    "timeWeek": 432,
     "timeMonth": 433,
-    "timeYear": 461,
+    "timeYear": 460,
     "dailyMinutesDown": {
       "2023-06-22": 305,
       "2023-06-21": 628,
@@ -130,7 +130,7 @@
       "2023-06-18": 727,
       "2023-06-17": 593,
       "2023-06-16": 553,
-      "2023-06-15": 390
+      "2023-06-15": 274
     }
   },
   {
