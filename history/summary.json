@@ -112,25 +112,25 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/f/fa/ArmA_3_Logo_%28Black%29.png",
     "slug": "arma-3-server",
     "status": "up",
-    "uptime": "98.27%",
-    "uptimeDay": "51.25%",
-    "uptimeWeek": "57.27%",
-    "uptimeMonth": "89.97%",
-    "uptimeYear": "98.27%",
+    "uptime": "98.26%",
+    "uptimeDay": "54.09%",
+    "uptimeWeek": "58.27%",
+    "uptimeMonth": "89.92%",
+    "uptimeYear": "98.26%",
     "time": 460,
-    "timeDay": 410,
+    "timeDay": 412,
     "timeWeek": 433,
     "timeMonth": 433,
     "timeYear": 460,
     "dailyMinutesDown": {
-      "2023-06-22": 703,
+      "2023-06-22": 692,
       "2023-06-21": 628,
       "2023-06-20": 545,
       "2023-06-19": 554,
       "2023-06-18": 727,
       "2023-06-17": 593,
       "2023-06-16": 553,
-      "2023-06-15": 88
+      "2023-06-15": 124
     }
   },
   {
