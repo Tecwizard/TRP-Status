@@ -13,7 +13,7 @@
     "time": 421,
     "timeDay": 341,
     "timeWeek": 323,
-    "timeMonth": 503,
+    "timeMonth": 398,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2023-06-25": 174,
@@ -37,7 +37,7 @@
     "time": 105,
     "timeDay": 122,
     "timeWeek": 109,
-    "timeMonth": 106,
+    "timeMonth": 105,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2023-01-25": 26
@@ -78,7 +78,7 @@
     "time": 205,
     "timeDay": 176,
     "timeWeek": 147,
-    "timeMonth": 157,
+    "timeMonth": 156,
     "timeYear": 205,
     "dailyMinutesDown": {
       "2023-06-10": 15,
@@ -101,7 +101,7 @@
     "time": 112,
     "timeDay": 180,
     "timeWeek": 147,
-    "timeMonth": 150,
+    "timeMonth": 149,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2023-01-25": 25
@@ -114,8 +114,8 @@
     "slug": "arma-3-server",
     "status": "up",
     "uptime": "98.23%",
-    "uptimeDay": "51.52%",
-    "uptimeWeek": "56.42%",
+    "uptimeDay": "59.31%",
+    "uptimeWeek": "57.54%",
     "uptimeMonth": "89.26%",
     "uptimeYear": "98.23%",
     "time": 465,
