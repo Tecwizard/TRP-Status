@@ -11,9 +11,9 @@
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.55%",
     "time": 421,
-    "timeDay": 529,
-    "timeWeek": 369,
-    "timeMonth": 402,
+    "timeDay": 506,
+    "timeWeek": 426,
+    "timeMonth": 403,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2023-06-25": 174,
@@ -35,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 105,
-    "timeDay": 91,
-    "timeWeek": 104,
-    "timeMonth": 104,
+    "timeDay": 97,
+    "timeWeek": 100,
+    "timeMonth": 105,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2023-01-25": 26
@@ -54,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 242,
-    "timeDay": 159,
-    "timeWeek": 212,
-    "timeMonth": 226,
-    "timeYear": 242,
+    "time": 241,
+    "timeDay": 184,
+    "timeWeek": 196,
+    "timeMonth": 225,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2023-06-10": 16,
       "2023-01-25": 26
@@ -75,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.92%",
-    "time": 205,
-    "timeDay": 91,
-    "timeWeek": 134,
-    "timeMonth": 156,
-    "timeYear": 205,
+    "time": 204,
+    "timeDay": 95,
+    "timeWeek": 121,
+    "timeMonth": 154,
+    "timeYear": 204,
     "dailyMinutesDown": {
       "2023-06-10": 15,
       "2023-04-05": 32,
@@ -98,11 +98,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 112,
+    "time": 111,
     "timeDay": 36,
-    "timeWeek": 129,
-    "timeMonth": 147,
-    "timeYear": 112,
+    "timeWeek": 107,
+    "timeMonth": 143,
+    "timeYear": 111,
     "dailyMinutesDown": {
       "2023-01-25": 25
     }
@@ -112,15 +112,15 @@
     "url": "https://arma3-servers.net/api/?object=servers&element=detail&key=$ARMA3_API",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/f/fa/ArmA_3_Logo_%28Black%29.png",
     "slug": "arma-3-server",
-    "status": "up",
-    "uptime": "98.27%",
-    "uptimeDay": "63.65%",
+    "status": "down",
+    "uptime": "98.29%",
+    "uptimeDay": "63.64%",
     "uptimeWeek": "57.02%",
-    "uptimeMonth": "89.44%",
-    "uptimeYear": "98.27%",
+    "uptimeMonth": "89.51%",
+    "uptimeYear": "98.29%",
     "time": 463,
-    "timeDay": 444,
-    "timeWeek": 488,
+    "timeDay": 438,
+    "timeWeek": 489,
     "timeMonth": 445,
     "timeYear": 463,
     "dailyMinutesDown": {
@@ -131,7 +131,7 @@
       "2023-06-28": 736,
       "2023-06-27": 514,
       "2023-06-26": 605,
-      "2023-06-25": 291
+      "2023-06-25": 262
     }
   },
   {
@@ -146,9 +146,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 84,
-    "timeDay": 42,
-    "timeWeek": 78,
-    "timeMonth": 87,
+    "timeDay": 57,
+    "timeWeek": 72,
+    "timeMonth": 85,
     "timeYear": 84,
     "dailyMinutesDown": {}
   }
