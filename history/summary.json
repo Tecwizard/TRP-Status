@@ -114,23 +114,23 @@
     "slug": "arma-3-server",
     "status": "up",
     "uptime": "98.59%",
-    "uptimeDay": "46.02%",
-    "uptimeWeek": "59.61%",
-    "uptimeMonth": "90.71%",
+    "uptimeDay": "51.68%",
+    "uptimeWeek": "59.35%",
+    "uptimeMonth": "90.65%",
     "uptimeYear": "98.59%",
     "time": 454,
-    "timeDay": 433,
-    "timeWeek": 434,
+    "timeDay": 428,
+    "timeWeek": 435,
     "timeMonth": 444,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2023-07-17": 778,
+      "2023-07-17": 767,
       "2023-07-16": 499,
       "2023-07-15": 665,
       "2023-07-14": 540,
       "2023-07-13": 677,
       "2023-07-12": 678,
-      "2023-07-11": 236
+      "2023-07-11": 273
     }
   },
   {
