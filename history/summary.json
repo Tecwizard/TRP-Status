@@ -131,9 +131,9 @@
     "url": "http://fivem.terra-isles.com/",
     "icon": "https://icons.duckduckgo.com/ip3/fivem.terra-isles.com.ico",
     "slug": "iceburg-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
@@ -143,6 +143,7 @@
     "timeMonth": 164,
     "timeYear": 153,
     "dailyMinutesDown": {
+      "2024-03-16": 0,
       "2024-01-20": 560,
       "2023-11-25": 347,
       "2023-11-24": 16
