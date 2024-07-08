@@ -55,7 +55,7 @@
     "icon": "https://i.postimg.cc/nVsqKF5Q/Screenshot-2.png",
     "slug": "tx-admin",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -199,14 +199,14 @@
     "status": "up",
     "uptime": "99.49%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.21%",
-    "time": 448,
+    "time": 452,
     "timeDay": 563,
-    "timeWeek": 481,
+    "timeWeek": 494,
     "timeMonth": 447,
-    "timeYear": 453,
+    "timeYear": 454,
     "dailyMinutesDown": {
       "2024-07-01": 19,
       "2024-06-30": 21,
@@ -230,9 +230,9 @@
     "url": "$ARMA3",
     "icon": "https://i.postimg.cc/rsqRxTtK/C8-A719-C3-D57-B-4-BEE-BA3-C-356502-FBC0-EB.png",
     "slug": "pterodactyl-server-node",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -241,6 +241,8 @@
     "timeWeek": 45,
     "timeMonth": 50,
     "timeYear": 68,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-08": 0
+    }
   }
 ]
