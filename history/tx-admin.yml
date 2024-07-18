@@ -1,7 +1,7 @@
 url: $TXADMIN
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-18T13:27:25.151Z
+status: up
+code: 200
+responseTime: 225
+lastUpdated: 2024-07-18T14:34:14.697Z
 startTime: 2022-12-28T17:38:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
