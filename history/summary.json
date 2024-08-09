@@ -237,11 +237,11 @@
     "url": "$ARMA3",
     "icon": "https://i.postimg.cc/rsqRxTtK/C8-A719-C3-D57-B-4-BEE-BA3-C-356502-FBC0-EB.png",
     "slug": "pterodactyl-server-node",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.95%",
+    "uptimeMonth": "96.06%",
     "uptimeYear": "99.57%",
     "time": 71,
     "timeDay": 73,
@@ -249,6 +249,7 @@
     "timeMonth": 58,
     "timeYear": 65,
     "dailyMinutesDown": {
+      "2024-08-09": 0,
       "2024-07-10": 407,
       "2024-07-09": 1440,
       "2024-07-08": 415
